@@ -53,3 +53,5 @@ The goal was to analyze sales and profitability, study delivery times across the
 - **Avg Delivery Days by State:** Choropleth map showing delivery performance across the USA.  
 
 <img width="1800" height="787" alt="20260423_204339" src="https://github.com/user-attachments/assets/aa203ecf-4fd8-43c3-9d15-8b2fc01a0346" />
+
+##  **You can view report here:** [View Tableau Report](https://public.tableau.com/app/profile/marina.koval8682/viz/Project_Tableau_17629702716710/Dashboard1))
